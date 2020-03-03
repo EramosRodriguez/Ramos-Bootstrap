@@ -1,0 +1,7 @@
+img{
+  width:auto;
+  height:auto;
+}
+.card:hover {
+  background-color: red;
+}
